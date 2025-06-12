@@ -1,0 +1,6 @@
+@StockFlow360_HostAddress = http://localhost:5134
+
+GET {{StockFlow360_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
